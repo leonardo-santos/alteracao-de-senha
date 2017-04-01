@@ -1,0 +1,60 @@
+@charset "UTF-8";
+
+body {
+	background-color: white;  	
+}
+
+h3 {
+	position: relative;
+	text-align: center;
+	top: 10px;  
+}
+
+img#botao-ok {
+	margin: 0px 106px 0px 106px;
+}
+
+div#interface {
+	background-color: rgb(235,235,235);
+	width: 300px;
+	height: 392px;
+	margin: 160px auto 0px;
+	border-radius: 10px;
+	border: 1px solid black;  
+}
+
+div#senha-antiga {
+	margin: 10px auto;
+	width: 250px;
+	height: 67px;
+	background-color: white;
+	top: 205px;
+	border-radius: 4px;
+	left: 555px;
+	box-shadow: 0px 0px 2px black;
+	border: 1px solid black;  
+}
+
+div#primeira-parte {
+	margin: 22px auto;
+	padding: 0px 10px;  
+}
+
+div#nova-senha {
+	background-color: white;
+	margin: 50px auto;
+	width: 250px;
+	height: 132px;
+	box-shadow: 0px 0px 2px black;
+	border: 1px solid black;
+	border-radius: 4px;  
+
+    margin-bottom: 30px;
+
+}
+
+div#segunda-parte {
+	padding: 5px 10px;
+	margin: 20px auto;  
+}
+
