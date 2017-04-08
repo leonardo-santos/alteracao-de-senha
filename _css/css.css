@@ -10,8 +10,9 @@ h3 {
 	top: 10px;  
 }
 
-img#botao-ok {
-	margin: 0px 106px 0px 106px;
+div#interface button#botao-ok {
+	margin: 0px 100px 0px 100px;
+	width: 90px
 }
 
 div#interface {
@@ -26,7 +27,7 @@ div#interface {
 div#senha-antiga {
 	margin: 10px auto;
 	width: 250px;
-	height: 67px;
+	height: 70px;
 	background-color: white;
 	top: 205px;
 	border-radius: 4px;
@@ -36,7 +37,7 @@ div#senha-antiga {
 }
 
 div#primeira-parte {
-	margin: 22px auto;
+	margin: 20px auto;
 	padding: 0px 10px;  
 }
 
@@ -55,6 +56,7 @@ div#nova-senha {
 
 div#segunda-parte {
 	padding: 5px 10px;
-	margin: 20px auto;  
+	margin: 11px auto;  
 }
+
 
